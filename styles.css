@@ -1,0 +1,55 @@
+body {
+  
+    display: grid;
+    place-items: center;
+    background-color:hsl(212, 45%, 89%);
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    border: 2px solid white;
+    
+    max-width: 300px;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    padding: 16px;
+    border-radius: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    
+    
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+
+    font-size: 15px;
+    font-weight: 500;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 18px; /* Adjust as needed */
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+.description {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+
+
+/* Remove redundant styles for img and #qq */
