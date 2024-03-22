@@ -10,7 +10,7 @@ body {
 .container{
     border: 2px solid white;
     
-    max-width: 330px;
+    max-width: 360px;
     box-sizing: border-box;
     background-color: white;
     text-align: center;
